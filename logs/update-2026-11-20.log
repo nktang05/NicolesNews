@@ -54,3 +54,33 @@
 11:32:25  OK      CBC News (Health) - 20 stories via feed (0 new)
 11:32:25  Wrote 3276 stories to /home/runner/work/NicolesNews/NicolesNews/docs/index.html. 3 sources failed, 0 need a check.
 
+20:12:19  Fetching 25 sources, 6 at a time.
+20:12:45  FAILED  Global Health NOW - Couldn't reach the site (HTTP 403 - the site blocks automated readers)
+20:12:45  OK      Doctors Without Borders (Latest) - 9 stories via scrape (1 new)
+20:12:45  OK      WHO (News) - 40 stories via site data (0 new)
+20:12:45  FAILED  Reuters (Healthcare & pharma) - Couldn't reach the site (HTTP 503)
+20:12:45  OK      Bloomberg (Health) - 3 of 20 stories match the keywords via feed (1 of 2 pages) (1 new)
+20:12:45          Page not read: https://news.google.com/rss/search?q=site%3Abloomberg.com%20(health%20OR%20healthcare%20OR%20pharmaceutical%20OR%20drugmaker%20OR%20FDA%20OR%20hospital%20OR%20biotech)%20when%3A7d&hl=en-US&gl=US&ceid=US%3Aen - Couldn't reach the site (HTTP 503)
+20:12:45          Check this source: Found 3 stories; usually about 23. The site may have changed.
+20:12:45  OK      The Guardian (International) - 100 stories via feed (54 new)
+20:12:45  OK      The Guardian (Health) - 20 stories via feed (3 new)
+20:12:45  OK      The Guardian (Global health) - 20 stories via feed (0 new)
+20:12:45  OK      The Guardian (US healthcare) - 20 stories via feed (0 new)
+20:12:45  OK      Los Angeles Times - 87 stories via feed (auto-detected) (35 new)
+20:12:45  OK      New York Times (Home page) - 19 stories via feed (16 new)
+20:12:45  OK      New York Times (Health) - 20 stories via feed (0 new)
+20:12:45  FAILED  California Dept. of Public Health - Couldn't reach the site (the secure connection failed)
+20:12:45  OK      BBC (Health) - 54 stories via scrape (0 new)
+20:12:45  OK      NPR (Health) - 26 stories via scrape (0 new)
+20:12:45  OK      NPR (Global health) - 24 stories via scrape (0 new)
+20:12:45  OK      Long Beach Post (Health search) - 10 stories via feed (auto-detected) (1 new)
+20:12:45  OK      CDC - 100 stories via feed (0 new)
+20:12:45  OK      CDC (MMWR) - 100 stories via feed (0 new)
+20:12:45  OK      CMS (Newsroom) - 10 stories via scrape (2 new)
+20:12:45  FAILED  FDA (Press releases) - Couldn't reach the site (HTTP 404)
+20:12:45  OK      KFF Health News - 10 stories via feed (0 new)
+20:12:45  OK      STAT - 20 stories via feed (5 new)
+20:12:45  OK      NACHC (News) - 10 stories via feed (auto-detected) (0 new)
+20:12:45  OK      CBC News (Health) - 20 stories via feed (3 new)
+20:12:45  Wrote 3397 stories to /home/runner/work/NicolesNews/NicolesNews/docs/index.html. 4 sources failed, 1 need a check.
+
